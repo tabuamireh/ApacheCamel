@@ -104,55 +104,7 @@
             <version>2.5.2</version>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>com.example</groupId>-->
-<!--            <artifactId>atlas-core</artifactId>-->
-<!--            <version>1.0</version>-->
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/src/main/resources/libs/atlas-core-1.8.0.jar</systemPath>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>com.example</groupId>-->
-<!--            <artifactId>atlas-json-core</artifactId>-->
-<!--            <version>1.0</version>-->
-<!--            <scope>system</scope>-->
-<!--            <systemPath>${project.basedir}/src/main/resources/libs/atlas-json-core-1.30.0.jar</systemPath>-->
-<!--        </dependency>-->
-
-<!--        &lt;!&ndash; AtlasMap dependencies &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>io.atlasmap</groupId>-->
-<!--            <artifactId>atlas-core</artifactId>-->
-<!--            <version>3.5.4</version>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>io.atlasmap</groupId>-->
-<!--            <artifactId>atlas-json-core</artifactId>-->
-<!--            <version>3.5.4</version>-->
-<!--        </dependency>-->
-
     </dependencies>
-
-<!--    <dependencyManagement>-->
-<!--        <dependencies>-->
-<!--            &lt;!&ndash; Spring Boot BOM &ndash;&gt;-->
-<!--            <dependency>-->
-<!--                <groupId>org.springframework.boot</groupId>-->
-<!--                <artifactId>spring-boot-dependencies</artifactId>-->
-<!--                <version>3.1.0</version>-->
-<!--                <type>pom</type>-->
-<!--                <scope>import</scope>-->
-<!--            </dependency>-->
-<!--&lt;!&ndash;            &lt;!&ndash; Camel BOM &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;            <dependency>&ndash;&gt;-->
-<!--&lt;!&ndash;                <groupId>org.apache.camel</groupId>&ndash;&gt;-->
-<!--&lt;!&ndash;                <artifactId>camel-spring-boot-dependencies</artifactId>&ndash;&gt;-->
-<!--&lt;!&ndash;                <version>3.11.0</version>&ndash;&gt;-->
-<!--&lt;!&ndash;                <type>pom</type>&ndash;&gt;-->
-<!--&lt;!&ndash;                <scope>import</scope>&ndash;&gt;-->
-<!--&lt;!&ndash;            </dependency>&ndash;&gt;-->
-<!--        </dependencies>-->
-<!--    </dependencyManagement>-->
 
     <build>
         <plugins>
